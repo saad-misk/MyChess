@@ -1,0 +1,10 @@
+Pieces\Pawn.class
+chess\Main.class
+Pieces\Bishop.class
+Pieces\Queen.class
+Pieces\Rock.class
+Pieces\King.class
+chess\GamePanel.class
+chess\Pieces\Piece.class
+chess\Board.class
+Pieces\Knight.class
